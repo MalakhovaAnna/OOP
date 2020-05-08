@@ -1,0 +1,15 @@
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.AssemblyInfoInputs.cache
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.AssemblyInfo.cs
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\Lab.Collection.exe
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\Lab.Collection.deps.json
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\Lab.Collection.runtimeconfig.json
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\Lab.Collection.runtimeconfig.dev.json
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\Lab.Collection.dll
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\Lab.Collection.pdb
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.dll
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.pdb
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.genruntimeconfig.cache
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.csproj.CopyComplete
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Anna\Source\Repos\MalakhovaAnna\OOP\Lab.Collection\Lab.Collection\obj\Debug\netcoreapp3.1\Lab.Collection.csproj.CoreCompileInputs.cache
